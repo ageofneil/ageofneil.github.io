@@ -1,5 +1,5 @@
-baseURL: https://<USERNAME>.github.io
-title: Neil Turner
+baseURL: "https://<USERNAME>.github.io"
+title: "Neil Turner"
 
 # Comment when installing using Hugo Modules
 theme: eureka
