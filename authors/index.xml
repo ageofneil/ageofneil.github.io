@@ -10,21 +10,12 @@
 </copyright>
     <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ageofneil.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example Author</title>
-      <link>https://ageofneil.github.io/authors/example-author/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://ageofneil.github.io/authors/example-author/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Neil Turner</title>
       <link>https://ageofneil.github.io/authors/neil-turner/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ageofneil.github.io/authors/neil-turner/</guid>
-      <description>Self Introduction Cras ex dui, tristique a libero eget, consectetur semper ligula. Nunc augue arcu, malesuada a nisi et, molestie finibus metus. Sed lacus odio, ultricies a nisl vitae, sollicitudin tempor ipsum. Vivamus quis feugiat arcu. Sed mi nunc, efficitur quis tellus vitae, posuere mattis metus. Phasellus in mattis dui. Nullam blandit, augue non ullamcorper dapibus, lacus dui molestie massa, in iaculis purus lectus eu lectus. Duis hendrerit lacinia tellus, sit amet feugiat dolor placerat id.</description>
+      <description>Contact Me Reach out to me by email: contact@ageofneil.com</description>
     </item>
     
   </channel>

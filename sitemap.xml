@@ -5,13 +5,13 @@
     <loc>https://ageofneil.github.io/authors/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ageofneil.github.io/authors/example-author/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ageofneil.github.io/tags/markdown/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ageofneil.github.io/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ageofneil.github.io/authors/neil-turner/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ageofneil.github.io/posts/placeholder-text/</loc>
@@ -53,8 +53,8 @@
     <loc>https://ageofneil.github.io/docs/example-doc/nested-chapter/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ageofneil.github.io/categories/</loc>
+    <loc>https://ageofneil.github.io/contact/</loc>
   </url><url>
-    <loc>https://ageofneil.github.io/authors/neil-turner/</loc>
+    <loc>https://ageofneil.github.io/categories/</loc>
   </url>
 </urlset>

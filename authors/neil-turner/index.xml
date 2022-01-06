@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://ageofneil.com&#34;&gt;Neil Turner&lt;/a&gt;
-</copyright><atom:link href="https://ageofneil.github.io/authors/neil-turner/index.xml" rel="self" type="application/rss+xml" />
+</copyright>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ageofneil.github.io/authors/neil-turner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://ageofneil.github.io/posts/placeholder-text/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ageofneil.github.io/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
