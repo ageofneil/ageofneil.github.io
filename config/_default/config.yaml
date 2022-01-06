@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: https://<USERNAME>.github.io
 title: Neil Turner
 
 # Comment when installing using Hugo Modules
